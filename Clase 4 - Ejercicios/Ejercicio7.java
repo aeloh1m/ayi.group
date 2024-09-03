@@ -7,7 +7,7 @@ import java.io.Console;
 import java.util.regex.Pattern;
 import java.util.regex.Matcher;
 
-class Ejercicio7 {
+public class Ejercicio7 {
 
     public static void main(String[] args) {
         String numeroString, numeroParseado;

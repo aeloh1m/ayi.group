@@ -3,7 +3,7 @@
 import java.util.Random;
 import java.lang.Math;
 
-class Ejercicio2 {
+public class Ejercicio2 {
 
     public static void main(String[] args) {
         Random random = new Random();

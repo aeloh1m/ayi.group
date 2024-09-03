@@ -5,7 +5,7 @@
 Informar la posición de la letra “g”
  */
 
-class Ejercicio3 {
+public class Ejercicio3 {
     public static void main(String[] args) {
 
         String cadenaDeCaracteres = "El veloz murcielago volaba muy alto durante el día y la noche";

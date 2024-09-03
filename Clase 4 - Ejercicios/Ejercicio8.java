@@ -7,7 +7,7 @@ palabras por separado de dicha cadena (No incluir espacios)
 import java.io.Console;
 import java.util.regex.Matcher;
 
-class Ejercicio8 {
+public class Ejercicio8 {
 
     public static void main(String[] args) {
         Console console = System.console();

@@ -5,7 +5,7 @@
 ● Informar el tamaño de la cadena con espacios y sin espacios.
  */
 
-class Ejercicio4 {
+public class Ejercicio4 {
     public static void main(String[] args) {
 
         String cadenaDeCaracteres = "La casa de la esquina es muy grande";

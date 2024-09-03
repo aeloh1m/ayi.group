@@ -1,6 +1,6 @@
 // Dado un número, descubrir si es par o impar.
 
-class Ejercicio1 {
+public class Ejercicio1 {
 
     public int parImpar(int num) {
 
