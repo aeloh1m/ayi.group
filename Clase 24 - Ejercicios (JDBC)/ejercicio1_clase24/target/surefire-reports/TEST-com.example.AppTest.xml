@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="com.example.AppTest" time="0.02" tests="1" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="java.specification.version" value="22"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="sun.jnu.encoding" value="UTF-8"/>
+    <property name="java.class.path" value="C:\Users\PC\Desktop\AYI GROUP\ayi.academy\Clase 24 - Ejercicios (JDBC)\ejercicio1_clase24\target\test-classes;C:\Users\PC\Desktop\AYI GROUP\ayi.academy\Clase 24 - Ejercicios (JDBC)\ejercicio1_clase24\target\classes;C:\Users\PC\.m2\repository\junit\junit\3.8.1\junit-3.8.1.jar;C:\Users\PC\.m2\repository\com\mysql\mysql-connector-j\8.0.33\mysql-connector-j-8.0.33.jar;C:\Users\PC\.m2\repository\com\google\protobuf\protobuf-java\3.21.9\protobuf-java-3.21.9.jar;"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="user.variant" value=""/>
+    <property name="java.vendor.url" value="https://java.oracle.com/"/>
+    <property name="user.timezone" value="America/Buenos_Aires"/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="java.vm.specification.version" value="22"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="user.country" value="AR"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-22\bin"/>
+    <property name="sun.java.command" value="C:\Users\PC\AppData\Local\Temp\surefire8761365375947932890\surefirebooter-20240926204122168_3.jar C:\Users\PC\AppData\Local\Temp\surefire8761365375947932890 2024-09-26T20-41-22_040-jvmRun1 surefire-20240926204122168_1tmp surefire_0-20240926204122168_2tmp"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="surefire.test.class.path" value="C:\Users\PC\Desktop\AYI GROUP\ayi.academy\Clase 24 - Ejercicios (JDBC)\ejercicio1_clase24\target\test-classes;C:\Users\PC\Desktop\AYI GROUP\ayi.academy\Clase 24 - Ejercicios (JDBC)\ejercicio1_clase24\target\classes;C:\Users\PC\.m2\repository\junit\junit\3.8.1\junit-3.8.1.jar;C:\Users\PC\.m2\repository\com\mysql\mysql-connector-j\8.0.33\mysql-connector-j-8.0.33.jar;C:\Users\PC\.m2\repository\com\google\protobuf\protobuf-java\3.21.9\protobuf-java-3.21.9.jar;"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="C:\Users\PC"/>
+    <property name="user.language" value="es"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.version.date" value="2024-07-16"/>
+    <property name="java.home" value="C:\Program Files\Java\jdk-22"/>
+    <property name="file.separator" value="\"/>
+    <property name="basedir" value="C:\Users\PC\Desktop\AYI GROUP\ayi.academy\Clase 24 - Ejercicios (JDBC)\ejercicio1_clase24"/>
+    <property name="java.vm.compressedOopsMode" value="Zero based"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="surefire.real.class.path" value="C:\Users\PC\AppData\Local\Temp\surefire8761365375947932890\surefirebooter-20240926204122168_3.jar"/>
+    <property name="user.script" value=""/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="22.0.2+9-70"/>
+    <property name="user.name" value="PC"/>
+    <property name="stdout.encoding" value="UTF-8"/>
+    <property name="path.separator" value=";"/>
+    <property name="os.version" value="10.0"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="file.encoding" value="UTF-8"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="localRepository" value="C:\Users\PC\.m2\repository"/>
+    <property name="java.vendor.url.bug" value="https://bugreport.java.com/bugreport/"/>
+    <property name="java.io.tmpdir" value="C:\Users\PC\AppData\Local\Temp\"/>
+    <property name="java.version" value="22.0.2"/>
+    <property name="user.dir" value="C:\Users\PC\Desktop\AYI GROUP\ayi.academy\Clase 24 - Ejercicios (JDBC)\ejercicio1_clase24"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="native.encoding" value="UTF-8"/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk-22\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\dotnet\;C:\MinGW\bin;C:\Users\PC\AppData\Roaming\nvm;C:\Program Files\nodejs;J:\Program Files (x86)\Git\cmd;J:\StrawBerryPerl\c\bin;J:\StrawBerryPerl\perl\site\bin;J:\StrawBerryPerl\perl\bin;C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Microsoft SQL Server\150\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\160\Tools\Binn\;C:\Program Files\Microsoft SQL Server\160\Tools\Binn\;C:\Program Files\Microsoft SQL Server\160\DTS\Binn\;J:\Program Files (x86)\dotnet-core-uninstall\;J:\Program Files (x86)\dotnet-core-uninstall;C:\ProgramData\chocolatey\bin;C:\Program Files\nodejs\;C:\Users\PC\AppData\Local\Android\Sdk\platform-tools;c:\Users\PC\AppData\Roaming\Code\User\globalStorage\ms-dotnettools.vscode-dotnet-runtime\.dotnet\7.0.12~x64\dotnet.exe;C:\Program Files (x86)\Microsoft SQL Server\160\DTS\Binn\;J:\Program Files (x86)\RenderWareSDK\Shared\OpenExport\bin;J:\Program Files (x86)\RenderWareSDK\Studio\Programs;J:\program files\bin;C:\Program Files\Apache\Maven\bin;C:\Program Files\Apache\Maven;C:\Program Files\Apache\Tomcat;C:\Program Files\Java\jdk-22\bin;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;J:\Program Files (x86)\RenderWareSDK\Graphics\rwsdk\bin;J:\Program Files (x86)\RenderWareSDK\Graphics\bin;J:\Program Files (x86)\RenderWareSDK\shared\OpenExport\bin;J:\Program Files (x86)\Phyton\Scripts\;J:\Program Files (x86)\Phyton\;J:\program files\Cracklock\Bin;C:\Users\PC\AppData\Local\Microsoft\WindowsApps;C:\Users\PC\Desktop\tools;C:\Users\PC\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\PC\.dotnet\tools;J:\Rep Huawei\platform-tools_r31.0.2-windows\platform-tools;J:\Program Files (x86)\heroku\bin;C:\Users\PC\AppData\Roaming\nvm;C:\Program Files\nodejs;J:\Program Files (x86)\Phyton\python.exe;j:\program files (x86)\phyton\lib\site-packages;C:\Program Files\Azure Data Studio\bin;C:\Program Files\Microsoft.NET\ADOMD.NET\110;C:\Users\PC\AppData\Roaming\npm;C:\Users\PC\.fly\bin;C:\Users\PC\.fly\bin;C:\Program Files\Tesseract-OCR\tesseract.exe;C:\Program Files\Azure Data Studio\bin;C:\Users\PC\.dotnet\tools;J:\Program Files (x86)\dotnet-core-uninstall;;."/>
+    <property name="java.vm.info" value="mixed mode, sharing"/>
+    <property name="stderr.encoding" value="UTF-8"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="java.vm.version" value="22.0.2+9-70"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="java.class.version" value="66.0"/>
+  </properties>
+  <testcase name="testApp" classname="com.example.AppTest" time="0.003"/>
+</testsuite>

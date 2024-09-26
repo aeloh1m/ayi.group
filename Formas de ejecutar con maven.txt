@@ -1,0 +1,17 @@
+1 Compilar y preparar el proyecto:
+
+bash
+Copiar código
+ - mvn clean install
+
+Ejecutar el archivo JAR:
+
+bash
+Copiar código
+ - java -jar target/tu-archivo.jar
+
+Ejecutar directamente usando exec:
+
+bash
+Copiar código
+- mvn exec:java -Dexec.mainClass="com.example.App"

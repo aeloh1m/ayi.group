@@ -1,0 +1,10 @@
+com\example\dao\TareaDAOImpl.class
+com\example\modelos\Tarea.class
+com\example\App.class
+com\example\dao\EmpleadoDAO.class
+com\example\dao\ProyectoDAOImpl.class
+com\example\modelos\Empleado.class
+com\example\dao\TareaDAO.class
+com\example\dao\EmpleadoDAOImpl.class
+com\example\dao\ProyectoDAO.class
+com\example\modelos\Proyecto.class
