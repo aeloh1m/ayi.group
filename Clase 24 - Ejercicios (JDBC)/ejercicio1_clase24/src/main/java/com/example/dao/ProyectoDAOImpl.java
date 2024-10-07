@@ -56,7 +56,7 @@ public class ProyectoDAOImpl implements ProyectoDAO {
                 }
             }
         }
-        return null; // Return null if not found
+        return null; // Retorna null si no se encuentra
     }
     @Override
     public void actualizarProyecto(Proyecto proyecto) throws SQLException {

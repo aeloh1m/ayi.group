@@ -56,7 +56,7 @@ public class TareaDAOImpl implements TareaDAO {
                 }
             }
         }
-        return null; // Return null if not found
+        return null; // Retorna null si no se encuentra
     }
 
     @Override

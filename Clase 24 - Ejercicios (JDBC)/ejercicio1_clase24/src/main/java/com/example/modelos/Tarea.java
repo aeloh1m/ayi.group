@@ -1,18 +1,16 @@
 package com.example.modelos;
 
 public class Tarea {
-    private int idTarea;      // id_tarea
-    private boolean estadoTarea; // estado_tarea
-    private String descripcion;  // Optional: A description of the task
+    private int idTarea;      
+    private boolean estadoTarea; 
+    private String descripcion; 
 
-    // Constructor
     public Tarea(int idTarea, boolean estadoTarea, String descripcion) {
         this.idTarea = idTarea;
         this.estadoTarea = estadoTarea;
         this.descripcion = descripcion;
     }
 
-    // Getters and Setters
     public int getIdTarea() {
         return idTarea;
     }
