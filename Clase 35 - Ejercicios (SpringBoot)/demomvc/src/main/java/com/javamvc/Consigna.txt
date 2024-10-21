@@ -1,0 +1,8 @@
+* El proyecto tiene que ser de Spring Boot MVC.
+* Cambiar el banner del proyecto utilizando algunos generadores que hemos visto en el curso.
+* Crear la vista en la carpeta de Templates y el Controlador en la capa controladora.
+* Enviar datos desde el controlador hacia la vista.
+* Enviar el título de la página.
+* Enviar una lista de personas (tipo documento, 
+* número de documento, nombre y apellido)
+* Mostrar los datos de personas en una tabla.

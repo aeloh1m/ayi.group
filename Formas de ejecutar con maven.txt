@@ -15,3 +15,11 @@ Ejecutar directamente usando exec:
 bash
 Copiar código
 - mvn exec:java -Dexec.mainClass="com.example.App"
+
+Crear app de consola:
+mvn archetype:generate -DgroupId=com.InstanciaEvaluativa1 -DartifactId=InstanciaEvaluativa1 -DarchetypeArtifactId=maven-archetype-quickstart -DinteractiveMode=false
+
+Tres ejercicios,
+
+Maven central repository.
+desactivar javascript para ver las noticias sin anuncios.

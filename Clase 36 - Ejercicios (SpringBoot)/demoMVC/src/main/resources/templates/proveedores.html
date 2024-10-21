@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org" lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="/css/proveedores.css">
+    <title>Document</title>
+
+    <tr>
+        <th>Código de Proveedor</th>
+        <th>Razón Social</th>
+        <th>CUIL/CUIT</th>
+        <th>Domicilio</th>
+        <th>Tipo de Proveedor</th>
+    </tr>
+</head>
+
+<body>
+    <tr th:each="proveedor : ${proveedores}">
+        <td th:text="${proveedor.codigoProveedor}">Código</td>
+        <br></br>
+        <td th:text="${proveedor.razonSocial}">Razón Social</td>
+        <td th:text="${proveedor.cuilCuit}">CUIL/CUIT</td>
+        <td th:text="${proveedor.domicilioCalle} + ' ' + ${proveedor.domicilioAltura}">Domicilio</td>
+        <td th:text="${proveedor.tipoProveedor}">Tipo</td>
+    </tr>
+
+</body>
+
+</html>
