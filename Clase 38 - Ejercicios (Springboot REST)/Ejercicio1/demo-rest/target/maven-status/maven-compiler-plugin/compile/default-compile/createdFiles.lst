@@ -1,0 +1,5 @@
+com\demorest\Modelo\Usuario.class
+com\demorest\Controller\TestController.class
+com\demorest\App.class
+com\demorest\Repository\UsuarioRepository.class
+com\demorest\Controller\UsuarioController.class
