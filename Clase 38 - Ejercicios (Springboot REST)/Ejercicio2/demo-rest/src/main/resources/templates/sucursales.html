@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+
+<head>
+    <title>Sucursales</title>
+</head>
+
+<body>
+    <h1>Lista de Sucursales y Empleados</h1>
+    <table>
+        <thead>
+            <tr>
+                <th>ID Sucursal</th>
+                <th>Nombre Sucursal</th>
+                <th>Empleados</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr th:each="sucursal : ${sucursales}">
+                <td th:text="${sucursal.nro_sucursal}"></td>
+                <td th:text="${sucursal.nombre}"></td>
+                <td>
+                    <ul>
+                        <li th:each="empleado : ${sucursal.empleados}">
+                            <span th:text="${empleado.nombre} + ' ' + ${empleado.apellido}"></span>
+                        </li>
+                    </ul>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+
+</body>
+
+</html>
