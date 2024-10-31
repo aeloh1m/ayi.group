@@ -1,0 +1,12 @@
+[
+    {
+        "nroCliente": 1,
+        "nombre": "Juan ",
+        "apellido": "Perez"
+    },
+    {
+        "nroCliente": 2,
+        "nombre": "Amelia ",
+        "apellido": "Sánchez"
+    }
+]

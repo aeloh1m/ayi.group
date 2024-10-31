@@ -1,0 +1,6 @@
+com\demorest\Controller\ClientesController.class
+com\demorest\Services\IClientesService.class
+com\demorest\Entities\Cliente.class
+com\demorest\Services\ClientesServiceImpl.class
+com\demorest\Services\ClientesServiceImpl$1.class
+com\demorest\App.class
